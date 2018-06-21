@@ -36,11 +36,6 @@ def turn(board)
 end
 
 # Define your play method below
-counter = 0
-while counter < 20
- puts "The current number is less than 20."
- counter += 1
-end
 
 def play(board)
   X = 0
