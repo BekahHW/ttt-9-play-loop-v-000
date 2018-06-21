@@ -38,9 +38,9 @@ end
 # Define your play method below
 
 def play(board)
-  counter = 0
-  until counter == 10
-    puts  turn(board)
-    counter += 1
+  turn(board) = 0
+  until turn(board) == 10
+    puts  "X"
+    turn(board) += 1
   end
 end
