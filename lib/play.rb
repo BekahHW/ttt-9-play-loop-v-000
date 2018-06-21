@@ -43,5 +43,5 @@ def play(board)
   # while X < 10
   #   puts "X"
   #   X += 1
-  end
+  # end
 end
