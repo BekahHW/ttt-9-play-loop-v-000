@@ -37,4 +37,6 @@ end
 
 # Define your play method below
 def play(board)
-  
+  loop do 
+    puts"X"
+  end
